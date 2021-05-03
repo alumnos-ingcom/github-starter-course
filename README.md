@@ -10,11 +10,11 @@ El objetivo de este curso es brindarle una breve introducción a GitHub. Tambié
 
 **Git es un sistema de control de versiones distribuido (VCS) que ayuda a realizar un seguimiento de los cambios mientras trabaja en nuevos proyectos de desarrollo de software.** Git realiza un seguimiento de los cambios que realiza para que siempre tenga un registro de lo que ha trabajado y pueda volver fácilmente a una versión anterior de su código si es necesario. También facilita el trabajo con otras personas: ¡grupos de personas pueden trabajar juntas en el mismo proyecto y fusionar sus cambios en una fuente final!
 
-** GitHub es una plataforma de colaboración. ** Desde software hasta documentos legales, puede contar con GitHub para ayudarlo a hacer su mejor trabajo con las herramientas de colaboración y seguridad que su equipo necesita. Con GitHub, puede mantener los proyectos completamente privados, invitar al mundo a colaborar y optimizar cada paso de su proyecto.
+**GitHub es una plataforma de colaboración.** Desde software hasta documentos legales, puede contar con GitHub para ayudarlo a hacer su mejor trabajo con las herramientas de colaboración y seguridad que su equipo necesita. Con GitHub, puede mantener los proyectos completamente privados, invitar al mundo a colaborar y optimizar cada paso de su proyecto.
 
-** GitHub también es una poderosa herramienta de control de versiones. ** GitHub usa Git, el software de control de versiones de código abierto más popular, para rastrear cada contribución y contribuyente a su proyecto, para que sepa exactamente de dónde proviene cada línea de código.
+**GitHub también es una poderosa herramienta de control de versiones.** GitHub usa Git, el software de control de versiones de código abierto más popular, para rastrear cada contribución y contribuyente a su proyecto, para que sepa exactamente de dónde proviene cada línea de código.
 
-** GitHub ayuda a las personas a hacer mucho más. ** GitHub se utiliza para crear algunas de las tecnologías más avanzadas del mundo. Ya sea que esté visualizando datos o creando un nuevo juego, hay toda una comunidad y un conjunto de herramientas en GitHub que pueden llevarlo al siguiente paso. Este curso comienza con lo básico, pero profundizaremos en el resto más adelante.
+**GitHub ayuda a las personas a hacer mucho más.** GitHub se utiliza para crear algunas de las tecnologías más avanzadas del mundo. Ya sea que esté visualizando datos o creando un nuevo juego, hay toda una comunidad y un conjunto de herramientas en GitHub que pueden llevarlo al siguiente paso. Este curso comienza con lo básico, pero profundizaremos en el resto más adelante.
 
 ## 💻 Funciones de GitHub 
 
